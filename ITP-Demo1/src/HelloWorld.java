@@ -7,5 +7,9 @@ public class HelloWorld {
 		System.out.println("Second message!");
 
 	}
+	
+	protected String helper() {
+		return "Hello everybody!";
+	}
 
 }
