@@ -8,7 +8,7 @@ public class HelloWorld {
 	}
 
 	protected static String helper() {
-		return "Hello everybody!";
+		return "Hello everybody out there!";
 	}
 
 }
